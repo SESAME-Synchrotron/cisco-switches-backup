@@ -1,4 +1,4 @@
-# cisco-switchs-backup
+# cisco-switche-backup
 
 This a very basic and simple script to backup RUNNING CONFIGRATION on CISCO Catalyst Switches. 
 
